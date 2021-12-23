@@ -1,0 +1,2 @@
+.App{background:#fff;border:1px solid #ddd;border-radius:8px;box-shadow:0 4px 8px 0 rgba(118,234,238,.747);margin:2em auto auto;max-width:600px;padding:1em}h1{font-weight:400;margin:0}.tasks{list-style:none;padding:0}.done{opacity:.5;text-decoration:line-through}input[type=submit],input[type=text]{font-size:.9em;padding:4px 8px}label{vertical-align:top}.delete-button{cursor:pointer;margin-left:3rem;opacity:.6;padding-top:0;visibility:hidden}li:hover .delete-button{visibility:visible}.delete-button:hover{opacity:1}
+/*# sourceMappingURL=main.5b61d39b.css.map*/
